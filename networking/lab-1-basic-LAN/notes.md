@@ -6,5 +6,5 @@ The goal is to assign IP addresses and verify communication using the `ping` com
 
 Cisco Packet Tracer
 - 2 PCs
-- 1 Switch
+- 1 PT Switch
 - Ethernet cables
