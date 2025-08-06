@@ -21,8 +21,9 @@ Network Design:
    - PC3 – IP: 192.168.2.11/24, Gateway: 192.168.2.1
 
  - Router
-   - Fa0/0 – IP: 192.168.1.1/24 (connects to Switch 1)
-   - Fa0/1 – IP: 192.168.2.1/24 (connects to Switch 2)
+   - Gig0/0 – IP: 192.168.1.1/24 (connects to Switch 1)
+   - Gig0/1 – IP: 192.168.2.1/24 (connects to Switch 2)
+   - Ensure that both ports on the router are turned on
 
 
 
