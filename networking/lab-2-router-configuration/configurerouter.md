@@ -19,4 +19,4 @@ To configure LAN2, do the following commands
 - Router(config-if)# no shutdown  (even if the port seems on, always run this)
 - Router(config-if)# exit
 
-
+If all is correctly applied, ping one of the IP addresses on the other LAN.
