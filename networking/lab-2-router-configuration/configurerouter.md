@@ -1,9 +1,9 @@
-In order to Configure the router via CLI, you use the following commands to activeate
+In order to configure the router via CLI, use the following commands to activate configuration mode
 
 - Router> enable
 - Router# configure terminal
 
-Once here, you configure the two ports that is connected TO the router ports, NOT the ports connected to the switch ports
+Once in configuration mode, you will configure the two router ports that connect to each LAN, not the switch ports.
 
 To configure LAN1, do the following commands
 
