@@ -19,4 +19,5 @@ To configure LAN2, do the following commands
 - Router(config-if)# no shutdown  (even if the port seems on, always run this)
 - Router(config-if)# exit
 
-If all is correctly applied, ping one of the IP addresses on the other LAN.
+If everything is correctly configured, ping a PC from one LAN to another in simulation mode.
+You should receive a successful reply, confirming that both LANs are now connected through the router.
