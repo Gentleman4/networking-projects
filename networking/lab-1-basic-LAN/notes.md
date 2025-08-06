@@ -9,4 +9,4 @@ Cisco Packet Tracer
 - 1 PT Switch
 - Ethernet cables
 
-In order to access files with the extention of pkt, download cisco packet tracer. From there, you open the pkt file in cisco packet tracer to observe its contents.
+In order to access files with the extention of pkz, download cisco packet tracer. From there, you open the pkt file in cisco packet tracer to observe its contents.
