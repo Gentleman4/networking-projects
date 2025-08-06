@@ -28,6 +28,6 @@ Network Design:
    - Gig0/1 – IP: 192.168.2.1/24 (connects to Switch 2)
    - Ensure that both ports on the router are turned on
 
-In order to access files with the extention of pkt, download cisco packet tracer. From there, you open the pkt file in cisco packet tracer to observe its contents.
+In order to access files with the extention of pkz, download cisco packet tracer. From there, you open the pkt file in cisco packet tracer to observe its contents.
 
 
