@@ -11,13 +11,13 @@ Cisco Packet Tracer Equipment:
 
 Network Design:
 - LAN 1
-  - Switch 1
+  - Switch0
    - PC0 – IP: 192.168.1.10/24, Gateway: 192.168.1.1
    - PC1 – IP: 192.168.1.11/24, Gateway: 192.168.1.1
    - Configure IPs of PCs and Gateway via Static Routing
 
 - LAN 2
-  - Switch 2
+  - Switch1
    - PC2 – IP: 192.168.2.10/24, Gateway: 192.168.2.1
    - PC3 – IP: 192.168.2.11/24, Gateway: 192.168.2.1
    - Configure IPs of PCs and Gateway via Static Routing
