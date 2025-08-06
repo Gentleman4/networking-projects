@@ -8,6 +8,7 @@ Cisco Packet Tracer Equipment:
 - 2 Switches
 - 4 PCs (2 per LAN)
 - 6 Ethernet cables (Straight-through)
+- Text and Circles (Optional, but recommend for organizing)
 
 Network Design:
 - LAN 1
